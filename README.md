@@ -1,5 +1,5 @@
 #  Netflix Data Analysis (Excel|Power BI)
-## Netflix_Dashboard
+## Netflix Movies & TV Shows Dashboard
 This project involves creating an interactive Netflix dashboard using the Netflix Movies and TV Shows dataset. The objective is to analyze Netflix content based on type, genre, country, rating, and release year. The analysis and visualization were performed using basic data analytics techniques and dashboard components as demonstrated in the referenced tutorial. The dashboard provides a clear overview of Netflix’s content distribution and growth patterns.
 
 ## Questions | KPI's 
